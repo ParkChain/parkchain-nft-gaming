@@ -1,4 +1,4 @@
-NFT Gaming Platform
+# NFT Gaming Platform
 
 NFT Gaming Platform is a "GameFI+NFT" turn-based strategy game built on the PARKchain. Gamers have full ownership of their in-game NFT assets, such as Nft’s and equipment, all of which can be traded on the marketplace. 
 We are committed to creating a PARK social metaverse featuring both "Free to Play" and "Play and ECO". 
